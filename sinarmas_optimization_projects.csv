@@ -1,41 +1,41 @@
-"project_id";"project_category";"unit_owner";"capex_billion_idr";"opex_billion_idr";"required_fte";"schedule_months";"npv_billion_idr";"esg_improvement";"risk_score";"critical_path_flag"
-"P01";"Plant";"PT SMART";209,8;3,2;31;17;280,2;8,4;95;0
-"P02";"Plant";"APP";33;10,3;63;20;82,9;9,4;43;0
-"P03";"Infrastructure";"Sinar Mas Land";187,7;18,9;85;19;241,7;26,2;56;0
-"P04";"ESG";"Smartfren";32,6;16,6;32;13;67;28;71;0
-"P05";"Plant";"Asuransi Sinar Mas";50,4;5,6;36;21;119,4;15;59;1
-"P06";"Plant";"APP";136,6;31,3;13;5;165;4,7;45;1
-"P07";"Infrastructure";"Asuransi Sinar Mas";34,3;20;83;13;52,4;8,3;31;1
-"P08";"Infrastructure";"Sinar Mas Land";141,2;12,5;17;14;170,5;11,1;60;0
-"P09";"Plant";"Smartfren";43,5;22,7;8;12;80,1;20,4;50;0
-"P10";"Digital";"Eka Hospital";137,3;25,3;42;21;184,2;4,2;83;0
-"P11";"Plant";"APP";126,4;16,3;67;24;148,2;25,2;69;0
-"P12";"Expansion";"Sinar Mas Land";92,5;32,7;58;23;137;0;63;1
-"P13";"ESG";"Asuransi Sinar Mas";54,9;29,6;28;14;90,5;43,7;31;0
-"P14";"Plant";"Eka Hospital";211,2;18,4;12;20;249,2;19;36;1
-"P15";"Infrastructure";"APP";49,9;27,3;23;4;81,5;18,3;45;0
-"P16";"Expansion";"Sinar Mas Land";197,1;15,8;29;6;262,4;0;53;0
-"P17";"Digital";"APP";123,6;29,9;12;13;187,7;6,3;45;0
-"P18";"ESG";"Smartfren";122,4;19,1;48;11;140,4;39,4;76;0
-"P19";"Digital";"Bank SinarMas";117,2;4,2;19;18;137,5;27,9;56;1
-"P20";"Expansion";"Sinar Mas Land";157;21,1;56;10;217,5;17,7;60;0
-"P21";"Plant";"Asuransi Sinar Mas";63,6;29,3;10;14;146,8;10,1;56;0
-"P22";"Plant";"PT SMART";56,8;18,8;77;13;14,3;15,1;35;1
-"P23";"Infrastructure";"Eka Hospital";219,5;21,7;22;21;244,8;15,1;61;0
-"P24";"ESG";"Smartfren";60,8;9,1;52;11;42,1;21,1;49;0
-"P25";"ESG";"Asuransi Sinar Mas";92,6;2,2;40;22;146,2;38;42;1
-"P26";"Plant";"Asuransi Sinar Mas";159,7;28,8;12;9;168,7;5,2;63;1
-"P27";"ESG";"Bank SinarMas";50,5;28,5;80;14;23,2;31,8;51;0
-"P28";"ESG";"Bank SinarMas";208,7;25,7;58;22;301;43,8;32;1
-"P29";"ESG";"Sinar Mas Land";93,1;12,2;61;21;135,8;24,5;95;0
-"P30";"Infrastructure";"Smartfren";142,4;12,5;9;11;231,2;20,4;58;0
-"P31";"Infrastructure";"Bank SinarMas";78;7,6;80;10;86,9;15,8;95;1
-"P32";"ESG";"Sinar Mas Land";73,4;8,8;21;14;61,7;21,9;45;1
-"P33";"Expansion";"Sinar Mas Land";71,9;31,1;30;4;109;14,9;79;0
-"P34";"ESG";"Asuransi Sinar Mas";30;31,5;44;8;5;34,6;57;0
-"P35";"Expansion";"Smartfren";76,2;16,1;64;9;107,5;0;60;0
-"P36";"Plant";"APP";82,3;13;57;5;126,4;3;5;0
-"P37";"ESG";"Bank SinarMas";125,6;27,2;25;23;100,7;34,8;75;0
-"P38";"Digital";"APP";27,7;17,4;79;15;93,6;13,6;66;0
-"P39";"Expansion";"APP";82,3;16,8;14;20;75,2;10,5;59;1
-"P40";"ESG";"PT SMART";85,9;9,5;23;23;48,4;32,7;29;0
+project_id;project_category;unit_owner;capex_billion_idr;opex_billion_idr;required_fte;schedule_months;npv_billion_idr;esg_improvement;risk_score;critical_path_flag
+P01;Plant;PT-SMART;209,8;3,2;31;17;280,2;8,4;95;0
+P02;Plant;APP;33;10,3;63;20;82,9;9,4;43;0
+P03;Infrastructure;Sinar Mas Land;187,7;18,9;85;19;241,7;26,2;56;0
+P04;ESG;Smartfren;32,6;16,6;32;13;67;28;71;0
+P05;Plant;Asuransi Sinar Mas;50,4;5,6;36;21;119,4;15;59;1
+P06;Plant;APP;136,6;31,3;13;5;165;4,7;45;1
+P07;Infrastructure;Asuransi  Sinar Mas;34,3;20;83;13;52,4;8,3;31;1
+P08;Infrastructure;Sinar Mas Land;141,2;12,5;17;14;170,5;11,1;60;0
+P09;Plant;Smartfren;43,5;22,7;8;12;80,1;20,4;50;0
+P10;Digital;Eka Hospital;137,3;25,3;42;21;184,2;4,2;83;0
+P11;Plant;APP;126,4;16,3;67;24;148,2;25,2;69;0
+P12;Expansion;Sinar Mas Land;92,5;32,7;58;23;137;0;63;1
+P13;ESG;Asuransi Sinar Mas;54,9;29,6;28;14;90,5;43,7;31;0
+P14;Plant;Eka Hospital;211,2;18,4;12;20;249,2;19;36;1
+P15;Infrastructure;APP;49,9;27,3;23;4;81,5;18,3;45;0
+P16;Expansion;Sinar Mas Land;197,1;15,8;29;6;262,4;0;53;0
+P17;Digital;APP;123,6;29,9;12;13;187,7;6,3;45;0
+P18;ESG;Smartfren;122,4;19,1;48;11;140,4;39,4;76;0
+P19;Digital;Bank SinarMas;117,2;4,2;19;18;137,5;27,9;56;1
+P20;Expansion;Sinar Mas Land;157;21,1;56;10;217,5;17,7;60;0
+P21;Plant;Asuransi Sinar Mas;63,6;29,3;10;14;146,8;10,1;56;0
+P22;Plant;PT SMART;56,8;18,8;77;13;14,3;15,1;35;1
+P23;Infrastructure;Eka Hospital;219,5;21,7;22;21;244,8;15,1;61;0
+P24;ESG;Smartfren;60,8;9,1;52;11;42,1;21,1;49;0
+P25;ESG;Asuransi Sinar Mas;92,6;2,2;40;22;146,2;38;42;1
+P26;Plant;Asuransi Sinar Mas;159,7;28,8;12;9;168,7;5,2;63;1
+P27;ESG;Bank SinarMas;50,5;28,5;80;14;23,2;31,8;51;0
+P28;ESG;Bank SinarMas;208,7;25,7;58;22;301;43,8;32;1
+P29;ESG;Sinar Mas Land;93,1;12,2;61;21;135,8;24,5;95;0
+P30;Infrastructure;Smartfren;142,4;12,5;9;11;231,2;20,4;58;0
+P31;Infrastructure;Bank SinarMas;78;7,6;80;10;86,9;15,8;95;1
+P32;ESG;Sinar Mas Land;73,4;8,8;21;14;61,7;21,9;45;1
+P33;Expansion;Sinar Mas Land;71,9;31,1;30;4;109;14,9;79;0
+P34;ESG;Asuransi Sinar Mas;30;31,5;44;8;5;34,6;57;0
+P35;Expansion;Smartfren;76,2;16,1;64;9;107,5;0;60;0
+P36;Plant;APP;82,3;13;57;5;126,4;3;5;0
+P37;ESG;Bank SinarMas;125,6;27,2;25;23;100,7;34,8;75;0
+P38;Digital;APP;27,7;17,4;79;15;93,6;13,6;66;0
+P39;Expansion;APP;82,3;16,8;14;20;75,2;10,5;59;1
+P40;ESG;PT SMART;85,9;9,5;23;23;48,4;32,7;29;0

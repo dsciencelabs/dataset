@@ -1,4 +1,5 @@
-project_id;project_category;unit_owner;capex_billion_idr;opex_billion_idr;required_fte;schedule_months;npv_billion_idr;esg_improvement;risk_score;critical_path_flag
+project_id;Project_Category;Unit Owner;Capex_billion_idr;opex_billion_idr;required_fte;schedule_months;npv_billion_idr;esg_improvement;risk_score;critical_path_flag
+P01;Plant;PT-SMART;209,8;3,2;31;17;280,2;8,4;95;0
 P01;Plant;PT-SMART;209,8;3,2;31;17;280,2;8,4;95;0
 P02;Plant;APP   ;33;10,3;63;20;82,9;9,4;43;0
 P03;Infrastructure;Sinar    Mas--Land;187,7;18,9;85;19;241,7;26,2;56;0

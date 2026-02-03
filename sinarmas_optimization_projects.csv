@@ -1,6 +1,6 @@
 row_id;project_id;Project_Category;Project Portfolio Id;business_unit_id;business_unit;capex_billion_idr;opex_billion_idr;total_cost_billion_idr;required_fte;schedule_months;npv_billion_idr;npv_per_total_cost;esg_improvement;esg_band;risk_score;risk_band;critical_path_flag;is_critical_path
-PID_P0001;P0001;Operational Excellence;BU_LAND_OPERATIONAL EXCELLENCE;BU_LAND;Sinar-Mas-Land;132,4;11,8;144,2;115;11;148,7;1,031206657;10;Medium;23;Low;0;FALSE
-PID_P0001;P0001;Operational Excellence;BU_LAND_OPERATIONAL EXCELLENCE;BU_LAND;Sinar-Mas-Land;132,4;11,8;144,2;115;11;148,7;1,031206657;10;Medium;23;Low;0;FALSE
+PID_P0001;P0001;Operational Excellence;BU_LAND_OPERATIONAL EXCELLENCE;BU_LAND;Sinar Mas Land;132,4;11,8;144,2;115;11;148,7;1,031206657;10;Medium;23;Low;0;FALSE
+PID_P0001;P0001;Operational Excellence;BU_LAND_OPERATIONAL EXCELLENCE;BU_LAND;Sinar Mas Land;132,4;11,8;144,2;115;11;148,7;1,031206657;10;Medium;23;Low;0;FALSE
 PID_P0002;P0002;Plant;BU_LAND_PLANT;BU_LAND;Sinar Mas Land;77,8;13,6;91,4;32;10;54;0,590809628;11,4;Medium;41;Low;0;FALSE
 PID_P0042;P0042;Digital;BU_LAND_DIGITAL;BU_LAND;Sinar Mas Land;233,3;30,6;263,9;37;20;355,7;1,347859038;7;Low;80;High;0;FALSE
 PID_P0044;P0044;Operational Excellence;BU_LAND_OPERATIONAL EXCELLENCE;BU_LAND;Sinar Mas Land;238,6;18,9;257,5;90;19;259,1;1,006213592;18,6;Medium;47;Low;0;FALSE
